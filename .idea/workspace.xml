@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fa5ee49-7309-482d-b59d-154d3cfec874" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Records.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dlib-19.24.1-cp311-cp311-win_amd64.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drowsiness_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shape_predictor_68_face_landmarks (1).dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sound.wav" afterDir="false" />
-    </list>
+    <list default="true" id="6fa5ee49-7309-482d-b59d-154d3cfec874" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,18 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "shubh1239"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;shubh1239&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/shubh1239/Driver_Drowsiness_detection.git",
-    "accountId": "dbc78382-447d-4593-b550-11f42daf8ec1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/shubh1239/Driver_Drowsiness_detection.git&quot;,
+    &quot;accountId&quot;: &quot;dbc78382-447d-4593-b550-11f42daf8ec1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -60,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/jajus/PycharmProjects/PythonProject",
+    "last_opened_file_path": "C:/Users/jajus/PycharmProjects/PythonProject1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,6 +82,7 @@
       <workItem from="1744302506794" duration="2653000" />
       <workItem from="1744360901518" duration="883000" />
       <workItem from="1744523908285" duration="14252000" />
+      <workItem from="1744544613234" duration="980000" />
     </task>
     <servers />
   </component>
